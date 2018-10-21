@@ -46,3 +46,57 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+body {
+	background-image: url("../images/full-bloom.png");
+}
+
+header {
+	background-color: #ffffff;
+}
+
+.name {
+	display: inline-block;
+	font-family: 'Georgia', Times, Times New Roman, serifs;
+	font-size: 45px;
+	color: #ffffff;
+	text-align: center;
+	width: 25%;
+	background-color: #4aaaa5;
+	margin-left: 10%;
+	padding: 25px;
+}
+
+
+.menu {
+	display: flex;
+	float: right;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;;	
+	font-size: 20px;
+	margin-top: 38px;
+	margin-right: 150px;
+}
+
+a:visited {
+	color: #777777;
+}
+
+#about {
+	padding-right: 10px;
+}
+
+#portfolio {
+	padding-right: 10px;
+	padding-left: 10px;
+	border-right: 1px;
+	border-right-style: solid;
+	border-right-color: #777777;
+	border-left: 1px;
+	border-left-style: solid;
+	border-left-color: #777777;	
+}
+
+#contact {
+	padding-right: 10px;
+	padding-left: 10px;
+}
