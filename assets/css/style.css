@@ -179,10 +179,10 @@ footer {
 .porttag {
 	position: absolute;
 	width: 300px;
-	height: 50px;
+	height: 38px;
 	background-color: #4aaaa5;
 	text-align: center;
-	padding-top: 20px;
+	padding-top: 10px;
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	font-size: 25px;
 	color: #ffffff;
@@ -215,27 +215,27 @@ footer {
 
 .porttag1 {
 	left:5%;
-	top: 25%;
+	top: 28%;
 }
 
 .porttag2 {
 	left: 38%;
-	top: 25%;
+	top: 28%;
 }
 
 .porttag3 {
 	left: 5%;
-	top: 54%;
+	top: 57%;
 }
 
 .porttag4 {
 	left:38%;
-	top: 54%;
+	top: 57%;
 }
 
 .porttag5 {
 	left: 5%;
-	top: 83%;
+	top: 86%;
 }
 
 .formbox {
